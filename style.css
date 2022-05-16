@@ -155,6 +155,7 @@ main {
     gap: 15px;
     row-gap: 45px;
     padding: 45px 15px;
+    overflow-y: scroll;
 }
 main > div:nth-child(n + 1) {
     position: relative;
